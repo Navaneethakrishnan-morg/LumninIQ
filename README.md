@@ -140,10 +140,5 @@ npm run lint
 - 🔧 TypeScript for type safety
 - 🎯 SEO-ready with proper metadata
 
-## 👨‍💻 Built by
-
-**yal786** - LuminalQ Landing Page
-
----
 
 **LuminalQ** - Illuminate Your Learning Journey 🚀
